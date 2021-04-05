@@ -1,4 +1,4 @@
-# LearnNodeJs 1 out of 3 Apps
+# LearnNodeJs [1 out of 3 Apps]
 
 I'm picking up NodeJS through Andrew Mead's Udemy Course - The Complete Node.js Developer Course (3rd Edition)
 
