@@ -7,6 +7,7 @@ This is the first application I'm building with Node - A Note Taking Application
 What I've learnt:
 
 * Importing of modules (node.js core modules, npm and my own JS files)
-* Printing in colour using Chalk
+* Printing console messages in colour using Chalk
+* Parse Arguments using Yargs
 * File System
 * JSON (Storing and Retrieving of JSON data)
